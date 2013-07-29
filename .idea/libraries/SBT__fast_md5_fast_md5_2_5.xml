@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: fast-md5:fast-md5:2.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/fast-md5/fast-md5/jars/fast-md5-2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
